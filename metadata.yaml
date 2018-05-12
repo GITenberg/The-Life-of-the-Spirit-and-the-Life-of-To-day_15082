@@ -1,0 +1,30 @@
+_repo: The-Life-of-the-Spirit-and-the-Life-of-To-day_15082
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Underhill, Evelyn
+    aliases:
+    - Moore, Stuart, Mrs.
+    - Moore, Mrs. Stuart
+    birthdate: 1875
+    deathdate: 1941
+    gutenberg_agent_id: '5830'
+    url: http://www.gutenberg.org/2009/agents/5830
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Underhill
+description: ''
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritual life'
+- !lcc 'BV'
+title: The Life of the Spirit and the Life of To-day
+url: http://www.gutenberg.org/ebooks/15082
